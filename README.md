@@ -46,6 +46,7 @@ Labels are saved to:
 ```bash
 ./install_desktop_launcher.sh
 ```
+Currently you will need to add an icon to the launcher. 
 
 After installation, launch `Window Labels` from the application menu.
 # ai_utils
