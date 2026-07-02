@@ -1,3 +1,6 @@
+RT: Please note this is complete AI generated code!
+ 
+
 # Window Labels
 
 A small Kubuntu/X11 label utility for attaching editable labels to running windows.
